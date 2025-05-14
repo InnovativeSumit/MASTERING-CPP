@@ -3,7 +3,7 @@
 Welcome to the **Ultimate C++ Basics & Fundamentals Repository**!  
 This repo is your one-stop guide for mastering the core concepts of **C++ programming**. Whether you're just starting or brushing up on essentials — this is the perfect place to begin! 💡🔥
 
----
+
 
 ## 📌 What's Inside?
 
@@ -20,7 +20,7 @@ This repository covers all the **foundational concepts** in C++ with clear examp
 - ✅ **File Handling in C++** 🗂️  
 - ✅ **Practice Programs & Examples** 💻  
 
----
+
 
 ## ✨ Why Use This Repository?
 
@@ -30,7 +30,7 @@ This repository covers all the **foundational concepts** in C++ with clear examp
 - 💼 **Great for Interview Prep & Exam Revision**
 - 🔄 **Consistent Code Formatting**
 
----
+
 
 ## 🌟 Who Can Use This?
 
@@ -38,20 +38,14 @@ This repository covers all the **foundational concepts** in C++ with clear examp
 |:-----------:|:-------------:|:--------------:|:----------------:|
 | ✅ Yes       | ✅ Yes         | ✅ Yes          | ✅ Yes            |
 
----
+
 
 ## ⚙️ Prerequisites
 
 - A basic understanding of programming logic (helpful but not required)
 - A C++ compiler like **g++**, **Turbo C++**, or **online IDEs** like [Replit](https://replit.com/), [Coding Ninjas Studio](https://www.codingninjas.com/studio), or [GeeksforGeeks IDE](https://ide.geeksforgeeks.org/)
 
----
 
-## 🛠 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/CPP-Basics.git
 
 ## 📜 License
 
